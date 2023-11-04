@@ -68,7 +68,7 @@ These future improvements aim to take the project to its completion, offering a 
 To get started with the project, follow these simple steps:
 
 ###### Clone the repository to your local machine:
- ```git clone```: https://github.com/sankalp20/Babylon.js-2D-Shape-Extrusion-and-Manipulation.git
+ ```git clone https://github.com/sankalp20/Babylon.js-2D-Shape-Extrusion-and-Manipulation.git```
 
 ###### Install dependencies:
 - ```cd Babylon.js-2D-Shape-Extrusion-and-Manipulation```
